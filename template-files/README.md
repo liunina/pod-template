@@ -12,7 +12,7 @@ To run the example project, clone the repo, and run directory.
 
 ## Requirements
 
-`iOS 8.0` or later
+`iOS 12.0` or later
 
 ## Installation
 
@@ -27,7 +27,7 @@ pod "%ZYTemplateName%"
 
 ## Author
 
-ripper, ripperhe@qq.com
+liunian, iliunian@me.com
 
 ## License
 
